@@ -4,7 +4,7 @@ A finite state machine (sometimes called a finite state automaton) is a computat
 
 ![alt text](state-machine.png "Stopwatch State Machine Diagram")
 
-```
+```dart
 var stopwatchStateMachine = StateMachine({
   'running': State([
     Transition(action: 'pause', targetState: 'idle'),
