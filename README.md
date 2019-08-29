@@ -20,4 +20,4 @@ var stopwatchStateMachine = StateMachine({
 }, 'initial');
 ```
 
-Detailed information available here.
+Detailed information available [here](https://jawahar.tech/blog/finite-state-machine-flutter).
